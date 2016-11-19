@@ -1,6 +1,6 @@
 # FCSS
 
-This is an implementation of "Fast Compressible State Space (FCSS)" Method for Calcium Deconvolution and Sleep Spindle Detection.
+This is an implementation of "Fast Compressible State Space (FCSS)" Method for Calcium Deconvolution and Sleep Spindle Detection in MATLAB 2015b.
 
 Please see the comments in IRLS.m and example.m on how to run this algorithm.
 
